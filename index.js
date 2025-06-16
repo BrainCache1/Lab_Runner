@@ -293,7 +293,7 @@
                 Runner.imageSprite = document.getElementById('offline-resources-2x');
                 this.spriteDef = Runner.spriteDefinition.HDPI;
             } else {
-                Runner.imageSprite = document.getElementById('offline-resources-1x');
+                Runner.imageSprite = document.getElementById('offline-resources-2x');
                 this.spriteDef = Runner.spriteDefinition.LDPI;
             }
 
